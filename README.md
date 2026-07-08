@@ -2,6 +2,7 @@
 
 **AI/ML Engineer | GenAI Specialist | Published Researcher**
 
+A dedicated AI/ML Engineer with a strong foundation in deep learning and Generative AI, driven to build intelligent systems that solve real-world problems.
 ---
 
 ## About Me
